@@ -39,7 +39,7 @@ GET https://api.example.com/v1/users
 
 - **Status Code**: 200 OK
 - **Body** (Example):
-```json
+
 [  {    "id": 1,    "name": "John Doe",    "email": "john@example.com"  },  {    "id": 2,    "name": "Jane Doe",    "email": "jane@example.com"  }]
 
 —————————————————––—————————————————––—————————————————––
