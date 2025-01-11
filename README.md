@@ -1,5 +1,3 @@
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 # API Documentation Template
 
 This repository contains a simple template for API documentation, created by DAHKY. You can use it as a starting point for documenting your own API.
