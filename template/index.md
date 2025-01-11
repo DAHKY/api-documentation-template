@@ -52,15 +52,15 @@ POST https://api.example.com/v1/users
 
 —————————————————––—————————————————––—————————————————––
 
-// Body (Example)
+Body (Example)
 
 {
   "name": "New User",
   "email": "newuser@example.com"
 }
 
-// Response:
-// Status Code: 201 Created
+Response:
+Status Code: 201 Created
 
 {
   "id": 3,
@@ -70,10 +70,10 @@ POST https://api.example.com/v1/users
 
 —————————————————––—————————————————––—————————————————––
 
-// Error Handling
-// Describe common error codes that may be returned by your API (e.g., 400 Bad Request, 401 Unauthorized, 404 Not Found, etc.).
+Error Handling
+Describe common error codes that may be returned by your API (e.g., 400 Bad Request, 401 Unauthorized, 404 Not Found, etc.).
 
-// Example:
+Example:
 
 {
   "error": "Invalid input",
