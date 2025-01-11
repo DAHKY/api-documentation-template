@@ -45,8 +45,8 @@ GET https://api.example.com/v1/users
 —————————————————––—————————————————––—————————————————––
 
 POST /users
-// Create a new user
-// Request:
+Create a new user
+Request:
 
 POST https://api.example.com/v1/users
 
@@ -81,22 +81,20 @@ POST https://api.example.com/v1/users
 }
 
 
-// Rate Limiting
-// Explain if your API has any rate-limiting rules and what happens when the limit is exceeded.
-// Each user is limited to 1000 requests per hour.
+Rate Limiting
+Explain if your API has any rate-limiting rules and what happens when the limit is exceeded.
+Each user is limited to 1000 requests per hour.
 
 —————————————————––—————————————————––—————————————————––
 
-// Feel free to modify or add more sections as necessary for your specific API!
-
-// 4. Management of changes and version control
-// - If you want to further improve the template, add a "CHANGELOG.md" to track changes to the API documentation.
+Feel free to modify or add more sections as necessary for your specific API!
+If you want to further improve the template, add a "CHANGELOG.md" to track changes to the API documentation.
 
 —————————————————––—————————————————––—————————————————––
 
-// Once you have created the files, you can upload the structure to your GitHub repository and customize the "README.md" so that other developers know how to use your template.
+Once you have created the files, you can upload the structure to your GitHub repository and customize the "README.md" so that other developers know how to use your template.
 
-// Have fun creating it! :)
+Have fun creating it! :)
 
 
 
